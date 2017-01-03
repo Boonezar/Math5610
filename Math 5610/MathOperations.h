@@ -1,4 +1,12 @@
-﻿#ifndef MATH_OPERATIONS_H
+﻿//Sam Christiansen
+//1/2/2017
+//Programing Language: C++
+//Operations created for my Math 5610
+//	class (taught by Dr. Joseph Koebbe)
+//	during the 2016 Fall Semester at
+//	Utah State University
+
+#ifndef MATH_OPERATIONS_H
 #define MATH_OPERATIONS_H
 #include "MyMatrix.h"
 #include "MyVector.h"
